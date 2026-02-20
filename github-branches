@@ -1,0 +1,4 @@
+theia@theia-maxgayler7:/home/project/mcino-Introduction-to-Git-and-GitHub$ git branch -vv
+* bug-fix-revert dc8aa14 Revert "Fix typo in footer year"
+  bug-fix-typo   c2601fd Fix typo in footer year
+  main           c2601fd [origin/main: ahead 1] Fix typo in footer year
